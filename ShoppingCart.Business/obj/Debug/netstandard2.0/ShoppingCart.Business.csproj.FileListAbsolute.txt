@@ -1,0 +1,14 @@
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.deps.json
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.pdb
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Common.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Data.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Common.pdb
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Data.pdb
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csprojAssemblyReference.cache
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfoInputs.cache
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfo.cs
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.CopyComplete
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.pdb

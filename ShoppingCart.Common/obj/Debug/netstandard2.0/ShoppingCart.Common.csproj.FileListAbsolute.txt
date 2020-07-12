@@ -1,0 +1,8 @@
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\bin\Debug\netstandard2.0\ShoppingCart.Common.deps.json
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\bin\Debug\netstandard2.0\ShoppingCart.Common.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\bin\Debug\netstandard2.0\ShoppingCart.Common.pdb
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\obj\Debug\netstandard2.0\ShoppingCart.Common.AssemblyInfoInputs.cache
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\obj\Debug\netstandard2.0\ShoppingCart.Common.AssemblyInfo.cs
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\obj\Debug\netstandard2.0\ShoppingCart.Common.dll
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\obj\Debug\netstandard2.0\ShoppingCart.Common.pdb
+D:\projects\Bench Assignment\ShoppingCart\ShoppingCart.Common\obj\Debug\netstandard2.0\ShoppingCart.Common.csproj.CoreCompileInputs.cache
